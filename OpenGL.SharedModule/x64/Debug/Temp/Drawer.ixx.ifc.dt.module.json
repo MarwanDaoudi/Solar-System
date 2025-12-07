@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\Drawer.obj",
+            "outputs": [
+                "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\Drawer.ixx.ifc.dt.module.json",
+                "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\Drawer.ixx.ifc.dt.d.json",
+                "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\Drawer.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Drawer",
+                    "source-path": "c:\\users\\nouraldeen\\documents\\visual studio 2022\\lecture5\\opengl.sharedmodule\\src\\abstraction\\drawer.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "OpenGlShape"
+                }
+            ]
+        }
+    ]
+}

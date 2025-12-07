@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\OpenGlShape.obj",
+            "outputs": [
+                "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\OpenGlShape.ixx.ifc.dt.module.json",
+                "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\OpenGlShape.ixx.ifc.dt.d.json",
+                "C:\\Users\\NourAldeen\\Documents\\Visual Studio 2022\\Lecture5\\OpenGL.SharedModule\\x64\\Debug\\Temp\\OpenGlShape.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "OpenGlShape",
+                    "source-path": "c:\\users\\nouraldeen\\documents\\visual studio 2022\\lecture5\\opengl.sharedmodule\\src\\abstraction\\openglshape.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
